@@ -29,7 +29,7 @@ public class SemanaAPP {
 				System.out.println("Hoy es " + dia + " y es día festivo");
 				break;
 			default:
-				System.out.println("Hoy es " + dia + " y es día festivo");
+				System.out.println("El texto introducido no es correcto");
 				
 		}
 	}
